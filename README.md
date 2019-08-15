@@ -1,0 +1,2 @@
+# getSampleText
+Sample Text Generator 
