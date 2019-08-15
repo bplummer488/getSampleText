@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    margin-top: 0%;
+    padding: 0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
+}
+
+.titles{
+    padding: 10px;
+    text-shadow: 1px 1px 2px #00bda4, 0 0 25px #00e6c7, 0 0 5px #00bda4;
+}
+
+.header{
+    padding: 20px;
+    background: #03fcdb;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    box-shadow: inset 0 0 30px #00bda4, 0 0 30px lightgrey;
+    text-shadow: 1px 1px 2px #02baa1, 0 0 25px #00bda4, 0 0 5px #02baa1;
+}
+
+.container{
+    margin: 20px 10%;
+}
+
+.textContainer{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #03fcdb;
+    border-radius: 40px;
+    padding: 30px;
+    box-shadow: inset 0 0 30px #00bda4, 0 10px 30px lightgrey;
+}
+
+input {
+    text-align: center;
+    background-color: #03fcdb;
+    padding: 5px 10px;
+    border-radius: 40px;
+    outline: 0;
+    box-shadow: inset 0 0 10px #00bda4, 0 2px 20px lightgrey;
+    border: none;
+  }
+
+input:focus {
+    outline:0;
+  }
+
+.topForm{
+    text-align: center;
+}
+
+select{
+    text-align: center;
+    background-color: #03fcdb;
+    padding: 5px 40px;
+    border-radius: 40px;
+    outline: 0;
+    box-shadow: inset 0 0 10px #00bda4, 0 2px 20px lightgrey;
+    border: none;
+}
+
+
+
+
+
+
+
+
